@@ -1,0 +1,22 @@
+{
+  "name": "san_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sanJs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "dev": "npm run start",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:addc/About_san.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
+}
